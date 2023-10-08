@@ -19,8 +19,7 @@ The project includes the following components:
 - **Demonstrative Video:** A video demonstrating the simulation of the protection layer of the designed security system. You can watch the video [here](./demo_video.mp4).
 
 ## Contact
-Feel free to explore the project files and documentation to learn more about our Instrumented Security System for Cement Factory.
-If you have any technical questions or feedback, or want to use this, please don't hesitate to reach out first.
+Feel free to explore the project files and documentation. If you have any technical questions or feedback, or want to use this, please don't hesitate to reach out first.
 
 - [Linkedin Profile](https://www.linkedin.com/in/yhadj/)
 - [Email](mailto:yasser.hadj@g.enp.edu.dz)
