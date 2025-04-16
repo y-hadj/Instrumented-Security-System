@@ -1,11 +1,5 @@
 # Instrumented Security System for Cement Factory
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Description](#project-description)
-- [Contact](#contact)
-
-## Introduction
 This repository presents an updraged Instrumented Security System designed for use in a real cement factory. It is based on an old and upractical system. It highlights its drawbacks and upgrades them to a stronger prevention and protection layers.
 The base system is derived from a end-of-studies project and the upgraded system aims to enhance security and monitoring within the factory premises.
 
